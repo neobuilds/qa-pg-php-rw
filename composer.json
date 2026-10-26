@@ -1,0 +1,6 @@
+{
+    "name": "neobuilds/qa-pg-php-rw",
+    "description": "xCloud QA fixture",
+    "type": "project",
+    "require": {}
+}
